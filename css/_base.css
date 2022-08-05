@@ -1,9 +1,10 @@
-.header {
-    background-color: var(--secondary);
+header {
+    color: var(--secondary);
     text-align: center;
     padding: 15px;
     position: fixed;
     top: 0px;
     width: 100%;
   }
+  
   
