@@ -13,3 +13,12 @@ header {
 align-self: start;
 color: mediumblue;
   }  
+  body {
+    background-color: lightseagreen;
+  }
+  .navbar {
+    padding: 3px;
+    width: 30px;
+    height: 5px;
+  
+  }
