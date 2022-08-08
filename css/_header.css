@@ -1,4 +1,7 @@
-header {
-    background-color: turquoise;
-    
+.header {
+text-align: center;
+position: fixed;
+top: 0;
+width: 100vw;
+background-color: aquamarine;
 }
