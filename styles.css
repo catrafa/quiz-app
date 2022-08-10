@@ -1,9 +1,6 @@
 @import "./css/_base.css";
 @import "./css/_header.css";
 @import "./index.css";
-@import "./_main.css";
-@import "./nav.css";
 @import "./_article.css";
 @import "./_utils.css";
-
-
+@import "./css/_main.css"

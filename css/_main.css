@@ -1,0 +1,18 @@
+.cards__container {
+margin: 60px;
+display: flex; 
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.quizcard {
+ background-color: blue;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ color: azure;
+max-width: 400px;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 2rem;
+margin: 1rem;
+}
