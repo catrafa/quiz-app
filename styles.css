@@ -1,9 +1,9 @@
 @import "./css/_base.css";
-@import "./css/_header.css";
-@import "./index.css";
-@import "./_main.css";
-@import "./nav.css";
-@import "./_article.css";
-@import "./_utils.css";
+@import "./css/compontens/_header.css";
+@import "./css/index.css";
+@import "./css/compontens/_footer.css";
+@import "./css/compontens/_main.css";
+@import "./css/compontens/_nav.css";
+@import "./css/compontens/_utils.css";
 
 
