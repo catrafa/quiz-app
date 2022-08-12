@@ -8,7 +8,7 @@
     .quizcard {
      background-color: blue;
      font-family: Georgia, 'Times New Roman', Times, serif;
-     color: azure;
+     color: black;
     max-width: 400px;
     display: flex;
     flex-direction: column;
